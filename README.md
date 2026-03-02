@@ -63,25 +63,3 @@ pip install numpy scipy matplotlib sympy
 * **Book Title:** Applied Optimization with MATLAB Programming
 * **Author:** P. Venkataraman
 * **Publisher:** Wiley
-
-## ⚖️ License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
----
-
-*Developed as part of academic research and practical exploration of numerical methods.*
-
-```
-
----
-
-### Key Features of this Draft:
-* **Visual Badges:** Makes the repo look professional and maintained.
-* **Categorization:** Grouping by "Unconstrained", "Constrained", and "Heuristic" makes it easy for others to navigate.
-* **Mathematical Context:** Mentions **Hessian** and **Gradient** calculations (using SymPy), which shows you understand the underlying calculus.
-* **Benchmark Mention:** Mentions a `tests/` folder for validation, which is a hallmark of high-quality code.
-
-Would you like me to help you write a specific Python script for one of the solvers (like **BFGS** or **SQP**) to include in this repo?
-
-```
